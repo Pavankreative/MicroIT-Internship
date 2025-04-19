@@ -1,1 +1,3 @@
-cryptography
+echo nltk> requirements.txt
+echo scikit-learn>> requirements.txt
+echo pandas>> requirements.txt
